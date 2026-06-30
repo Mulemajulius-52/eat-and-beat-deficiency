@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mulemajulius-52.github.io/eat-and-beat-deficiency/sitemap.xml
