@@ -8,10 +8,10 @@
     <loc>https://mulemajulius-52.github.io/eat-and-beat-deficiency/#page-about</loc>
     <priority>0.8</priority>
   </url>
-  Disallow:/sitemap_new.xml
   <url>
     <loc>https://mulemajulius-52.github.io/eat-and-beat-deficiency/#page-diabetes</loc>
     <priority>0.8</priority>
   </url>
   <!-- Add more pages as needed -->
+    Disallow:/sitemap_new.xml
 </urlset>
